@@ -46,8 +46,8 @@ class _MyHomePageState extends State<MyHomePage> {
               'master code update Text', style: TextStyle(fontSize: 30),
             ),
             Text(
-              'dev-nhat code update Text',
-              style: TextStyle(fontSize: 40, fontWeight: FontWeight.bold),
+              'dev-nhat code update Text 2',
+              style: TextStyle(fontSize: 30),
             ),
           ],
         ),
