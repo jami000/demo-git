@@ -47,7 +47,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             Text(
               'Code on dev-nhat2',
-              style: TextStyle(fontSize: 30),
+              style: TextStyle(fontSize: 30,fontWeight: FontWeight.bold),
             ),
           ],
         ),
