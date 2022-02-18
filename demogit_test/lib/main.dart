@@ -41,6 +41,9 @@ class _MyHomePageState extends State<MyHomePage> {
             Text(
               'master code', style: TextStyle(fontSize: 40, color: Colors.red),
             ),
+            Text(
+              'master code update Text', style: TextStyle(fontSize: 30),
+            ),
           ],
         ),
       ),
